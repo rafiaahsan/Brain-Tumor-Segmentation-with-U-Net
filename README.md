@@ -7,14 +7,12 @@ This repository showcases the complete workflow of 2D medical image segmentation
 
 **Key Highlights:**
 
--Dataset: Medical images with annotated tumor masks (not included in this repo — you may use BraTS or any MRI dataset).
+- Dataset: Medical images with annotated tumor masks (not included in this repo — you may use BraTS or any MRI dataset).
 
--Model Architecture: Implemented a U-Net — a widely used deep learning model for biomedical image segmentation.
+- Deep Learning Model: A U-Net architecture was implemented for precise segmentation.
 
--Training Parameters: Configured key hyperparameters (learning rate, batch size, loss function, optimizer).
+- Training Parameters: Configured key hyperparameters (learning rate, batch size, loss function, optimizer).
 
--Predictions: Generated segmentation masks to highlight tumor regions in 2D slices.
-
--Evaluation: Visual inspection of predictions alongside ground-truth annotations.
+- Predictions: Generated segmentation masks to highlight tumor regions.
 
 Feel free to explore this repository to gain insights into the field of medical image analysis, deep learning, and computer vision. Whether you’re a researcher, machine learning enthusiast, or someone curious about the applications of AI in healthcare, this project offers practical knowledge and useful resources.
